@@ -1,22 +1,5 @@
-Bienvenidos
-hola miguel
-que tal?
-bien  y tu ? 
-todo bien, todo correcto.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ex mauris. Phasellus porta eros libero, quis consectetur sem condimentum et. Curabitur porta dui nec bibendum vehicula. Aenean venenatis a libero quis tempus. Vivamus mollis magna eget fermentum consectetur. Integer maximus aliquet lectus, eu pharetra orci. Vivamus a odio a erat commodo rutrum. Praesent libero enim, ultricies nec magna vitae, dignissim porttitor leo. Nunc in odio ac purus dignissim porttitor eu ac elit. Morbi laoreet purus purus, sed mollis urna commodo ac. Nam sagittis fermentum orci, in condimentum felis auctor fringilla. Proin eget placerat ipsum. Phasellus tempus elementum est a tempor. Sed venenatis mi nunc.
 
+Integer nec felis nec sapien ultrices ultrices vitae convallis ante. Integer a sapien a ex malesuada rhoncus sed in nisi. Etiam mi mauris, blandit quis metus sit amet, sagittis vulputate neque. Nunc non molestie mauris. Nullam accumsan dui vel nibh malesuada porttitor. Maecenas faucibus sapien ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce aliquet pulvinar eros, ut interdum tortor lacinia vitae. Suspendisse facilisis sagittis sem sit amet faucibus. In porttitor mollis faucibus. Nullam mattis congue lorem, sed placerat diam ullamcorper vitae. Phasellus auctor sapien vitae dapibus venenatis.
 
-hola como estas ?
-que haces, que tal su dia?
-fbdfdhdejfjtrfj
-tuuuuuuuuuuuuuuuy6
-sgergergswg
-sgergewt45yrfgf
-dtye5ty5ytrgvd
-fsdgf 
-a
-b
-c
-dyho
-fy
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquam, nibh nec mattis consequat, purus lorem hendrerit purus, blandit suscipit neque est gravida risus. Sed et nibh pulvinar, tristique odio quis, auctor ligula. Pellentesque molestie vitae dolor in lobortis. Praesent sollicitudin, ante et malesuada condimentum, nulla tellus dignissim libero, eget pulvinar felis nisi id elit. Donec efficitur velit ante. Vestibulum at ex sagittis, imperdiet orci in, lacinia risus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut id venenatis turpis, eu consequat purus.
+Nam at eros orci. Aenean ut nulla at ante euismod consectetur vel varius nulla. Praesent scelerisque efficitur nulla ac tristique. Vestibulum lacus quam, auctor quis porta sit amet, auctor vel odio. Curabitur eget efficitur velit. Ut aliquam porta dignissim. Sed ligula ligula, laoreet quis malesuada non, egestas faucibus dui. Donec consectetur, dui id commodo varius, augue est porttitor lectus, quis euismod nibh lectus quis elit. Suspendisse condimentum suscipit iaculis. Curabitur malesuada lorem in orci tincidunt congue. Integer aliquam sem ac tincidunt bibendum.
